@@ -2,8 +2,8 @@
 
 
 - 🔭 Estou procurando minha primeira experiência de Trabalho !
-- 🌱 Atualmente estou estudando python,javascript e cursando Sistema da informação.
-- 📫Contato: joselucas.dev@gmail.com
+- 🌱 Atualmente estou estudando python,javascript
+
 
 
 <div align="center">
