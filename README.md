@@ -1,7 +1,7 @@
 ### Olá, eu sou o José Lucas 👋
 
 
-- 🔭 Estou procurando minha primeira experiência de Trabalho !
+
 - 🌱 Atualmente estou estudando python,javascript
 
 
