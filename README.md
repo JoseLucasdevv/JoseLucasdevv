@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Atualmente estou estudando python,javascript
+- 🌱 Atualmente estou estudando javascript e python
 
 
 
