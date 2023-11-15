@@ -1,4 +1,4 @@
-### Olá, eu sou o José Lucas 👋
+### Prazer, José Lucas 👋
 
 
 <div align="center">
