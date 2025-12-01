@@ -1,6 +1,6 @@
 ### Hi There, I'm José Lucas 👋
 
-## Graduated in Analysis development Systems in 2025, i started my career as a developer in 2022 building systems to automate some services for small companies. along this years i have been learning a lot and improving my skills. nowadays i'm full stack developer and i can say myself i am the Exactly the same José Lucas from a few years ago but with the only one different thing. now I am more mature and with more experience than before. the path that i walked has been teaching me that you can reach your goals if you keep going and persist to make everything happen !
+## Graduated in Analysis development Systems in 2025, i started my career as a developer in 2022 building systems to automate some services for small companies. along this years i have been learning a lot and improving my skills. nowadays i am full stack developer
 ***
 <div align="center">
   <a href="https://github.com/JoseLucasdevv">
